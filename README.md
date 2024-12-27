@@ -15,14 +15,20 @@ A simple clone of the **Razorpay** payment gateway interface built using **HTML*
 
 ## Installation
 
+# Installation
+
 To run this project locally on your machine, follow these steps:
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/gargi63/razorpay-clone.git
-2.Navigate to the project directory:
- cd razorpay-clone
-3.Install the project dependencies:
-npm install
-4.Start the Project
-npm run start
+
+2. Navigate to the project directory:
+   cd razorpay-clone
+
+3. Install the project dependencies:
+   npm install
+
+4. Start the project:
+   npm run start
+
+5. Open your browser and navigate to http://localhost:3000 to view the project.
